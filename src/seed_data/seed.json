@@ -1,0 +1,25 @@
+[
+    {
+       "model":"account.account",
+       "pk":10,
+       "fields":{
+          "password":"pbkdf2_sha256$150000$1lAuB15ntKAt$1CXzq60d9oMYLSFcmqebKRcCJ12iA9ghHyzMS0bANSM=",
+          "email":"admin1@gmail.com",
+          "username":"admin1",
+          "date_joined":"2021-03-23T07:05:09.091Z",
+          "last_login":"2021-03-23T07:16:19.495Z",
+          "is_admin":true,
+          "is_active":true,
+          "is_staff":true,
+          "is_superuser":true,
+          "user_firstname":"",
+          "user_lastname":"",
+          "user_phone_number":"",
+          "user_address":"",
+          "user_city":"",
+          "user_state":"",
+          "user_country":"",
+          "user_pincode":""
+       }
+    }
+ ]
